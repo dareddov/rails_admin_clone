@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminClone::VERSION
   s.authors     = ["Marek"]
   s.email       = ["me@mark97.net"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminClone."
-  s.description = "TODO: Description of RailsAdminClone."
+  s.homepage    = "http://mark97.net"
+  s.summary     = "RailsAdmin plugin to cloning objects."
+  s.description = "RailsAdmin plugin to cloning objects."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
